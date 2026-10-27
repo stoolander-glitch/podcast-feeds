@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="https://stoolander-glitch.github.io/podcast-feeds/investors-edge.xml" rel="self" type="application/rss+xml" /><atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" /><ttl>5</ttl><title>Investor's Edge with Gary Kaltbaum (Ad-Free)</title>
+    <link>https://www.spreaker.com/show/investors-edge</link>
+    <description>Considered one of the finest radio shows on the markets, the business world and everything that affects them, Investor's Edge with Gary Kaltbaum, a Fox News Channel Business Contributor, brings his in-depth knowledge to listeners. (Ad-free edit: commercial breaks removed for personal listening.)</description>
+    <language>en</language>
+    <itunes:author>Gary Kaltbaum</itunes:author>
+    <itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/66626317ee60752103ca1889990d40e6.jpg" />
+    <itunes:explicit>false</itunes:explicit>
+    <item><title>Trying [10.26.2026] (Ad-Free)</title><description>Ad-free edit of the Trying [10.26.2026] episode. Commercial breaks removed.</description><pubDate>Mon, 26 Oct 2026 21:01:09 +0000</pubDate><guid>https://api.spreaker.com/episode/76009420-adfree</guid><enclosure url="https://dl.dropboxusercontent.com/scl/fi/i8mztpwixdxmqtl2vtbjk/latest.mp3?rlkey=i7srhpq4zoogf3pnsaqvapaqy" length="61211813" type="audio/mpeg" /><itunes:duration>2284</itunes:duration></item></channel>
+</rss>
