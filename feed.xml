@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+<!-- republish 202610301357 -->
     <atom:link href="https://stoolander-glitch.github.io/podcast-feeds/feed.xml" rel="self" type="application/rss+xml" /><atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" /><ttl>5</ttl><title>The Megyn Kelly Show (Ad-Free)</title>
     <link>https://www.siriusxm.com</link>
     <description>The Megyn Kelly Show is your home for open, honest and provocative conversations with the most interesting and important political, legal and cultural figures today. (Ad-free edit: commercial breaks removed for personal listening.)</description>
